@@ -1,0 +1,199 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+    margin:0 auto;
+    width: 90%;
+
+}
+
+.header {
+    padding-top: 30px;
+    background-color: rgb(36, 156, 156);
+    padding-bottom: 80px;
+    border-radius: 30px 0;
+}
+.header-logo {
+    float:left;
+    opacity:1;
+}
+
+.header-logo img {
+    padding: 5px;
+    width: 50%;
+    opacity: 1;
+}
+
+.header-list{
+    float:right;
+
+}
+
+.header-list ul {
+    list-style: none;
+    color:white;
+    
+}
+
+.header-list li {
+    float :left;
+    font-size: 30px;
+    padding-right:30px;
+    margin-top: 0px;
+}
+.image-product {
+    float: left;
+    width: 50%;
+}
+
+.image-product img {
+    width: 90%;
+    height: 500px;
+}
+
+
+.title-product {
+    float :right;
+    width: 50%;
+    margin: 90px 0 80px 0;
+}
+
+.title-product h2 {
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: rgb(36, 156, 156);
+}
+
+.title-product p {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+
+.title-product h1 {
+    font-size:75px;
+    color: rgb(36, 156, 156);
+}
+
+.Description {
+    margin-top: 60px;
+    width: 100%;
+    float: left;
+}
+
+.Description h2 {
+    font-size: 80px;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+    color: rgb(36, 156, 156);
+    border-bottom: 7px solid gold;
+    width: 35%;
+}
+
+.Description p {
+    font-size: 25px;
+}
+
+footer {
+    margin-top: 25cm;
+    background-color: rgb(13, 51, 58);
+    height: 7cm;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.footer-left {
+    width:auto;
+    padding-top: 30px;
+    width: 25%;
+    right: 30px;
+    float: left;
+}
+
+.footer-left img {
+    width: 75%;
+
+}
+
+.footer-mail {
+    width: 50%;
+    margin-left:35px ;
+}
+.footer-mail img {
+    width: 25%;
+    float: left;
+}
+
+.footer-list {
+    padding-top:30px;
+    text-align: left;
+}   
+
+.product-list {
+    width: 20%;
+    float: left;
+
+}
+
+.product-list p {
+    color: gold;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+}
+
+.product-list li {
+    color:white;
+    padding-bottom:10px ;
+    list-style: none;
+    font-size: 25px;
+}
+
+.Store-location {
+    width: 20%;
+    float: left;
+
+}
+
+.Store-location p {
+    color: gold;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+}
+
+
+
+.Store-location li {
+    color:white;
+    padding-bottom:10px ;
+    list-style: none;
+    font-size: 25px;
+}
+
+.contact-list {
+    width: 20%;
+    float: left;
+
+}
+
+.contact-list p {
+    color: gold;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+}
+
+.contact-list li {
+    color:white;
+    padding-bottom:10px ;
+    list-style: none;
+    font-size: 25px;
+}
+
+

@@ -1,0 +1,201 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+    margin:0 auto;
+    width: 90%;
+
+}
+
+.header {
+    padding-top: 30px;
+    background-color: rgb(36, 156, 156);;
+    padding-bottom: 80px;
+    border-radius: 30px 0;
+}
+.header-logo {
+    float:left;
+    opacity:1;
+}
+
+.header-logo img {
+    padding: 5px;
+    width: 50%;
+    opacity: 1;
+}
+
+.header-list{
+    float:right;
+
+}
+
+.header-list ul {
+    list-style: none;
+    color:white;
+    
+}
+
+.header-list li {
+    float :left;
+    font-size: 30px;
+    padding-right:30px;
+    margin-top: 0px;
+
+
+}
+.product-show {
+    width: 100%;
+    height: 700px;
+    margin: 100px auto 60px auto;
+
+}
+.text-console {
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.text-console h1 {
+    color: rgb(36, 156, 156);
+    font-size:60px;
+}
+
+.text-console p {
+    font-size: 30px;
+    opacity: 0.8;
+    margin-top:50px;
+}
+.coffe-product {
+    width: 100%;
+    margin:80px 0 60px 0;
+    text-align: center;
+}
+
+.coffe {
+    width: 30%;
+    height: 400px;
+    background-size: cover;
+    text-align: center;
+    float: left;
+    background-image: url("./../Photo Materials/Coffee\ background.png");
+
+    margin: 40px 20px 40px 20px;
+    border-radius: 40px;
+}
+
+.coffe p {
+    color:white;
+    padding: 20px 0 10px 0 ;
+    font-size: 25px;
+
+}
+
+.coffe h2{
+    padding-top:30px ;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+footer {
+    margin-top: 15cm;
+    background-color: rgb(13, 51, 58);
+    height: 7cm;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.footer-left {
+    width:auto;
+    padding-top: 30px;
+    width: 25%;
+    right: 30px;
+    float: left;
+}
+
+.footer-left img {
+    width: 75%;
+
+}
+
+.footer-mail {
+    width: 50%;
+    margin-left:35px ;
+}
+.footer-mail img {
+    width: 25%;
+    float: left;
+}
+
+.footer-list {
+    padding-top:30px;
+    text-align: left;
+}   
+
+.product-list {
+    width: 20%;
+    float: left;
+
+}
+
+.product-list p {
+    color: gold;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+}
+
+.product-list li {
+    color:white;
+    padding-bottom:10px ;
+    list-style: none;
+    font-size: 25px;
+}
+
+.Store-location {
+    width: 20%;
+    float: left;
+
+}
+
+.Store-location p {
+    color: gold;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+}
+
+
+
+.Store-location li {
+    color:white;
+    padding-bottom:10px ;
+    list-style: none;
+    font-size: 25px;
+}
+
+.contact-list {
+    width: 20%;
+    float: left;
+
+}
+
+.contact-list p {
+    color: gold;
+    padding-bottom: 10px;
+    font-size: 25px;
+
+}
+
+.contact-list li {
+    color:white;
+    padding-bottom:10px ;
+    list-style: none;
+    font-size: 25px;
+}
